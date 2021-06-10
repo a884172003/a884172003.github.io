@@ -1,0 +1,3 @@
+$ mkdir data #產生 data 工作目錄
+$ cd data #移動至 data 資料夾
+$ touch genesis.json #創建空的創世區塊檔
